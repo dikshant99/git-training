@@ -1,1 +1,2 @@
 Changes made from GUI
+Second line from GUI
